@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Risky Business",
+  "base_artist": "Parabola",
+  "createdAt": "2025-12-11T12:28:20.064851Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/01_Risky_Business_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Risky Business (Snippet)",
+      "artist": "Murs",
+      "has_synced": false,
+      "path": "select/02_Risky_Business_(Snippet)_Murs.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "The Cab",
+      "has_synced": false,
+      "path": "select/03_Risky_Business_The_Cab.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "Jorge Blanco",
+      "has_synced": false,
+      "path": "select/04_Risky_Business_Jorge_Blanco.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "Zhu",
+      "has_synced": true,
+      "path": "select/05_Risky_Business_Zhu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "Bury Your Dead",
+      "has_synced": true,
+      "path": "select/06_Risky_Business_Bury_Your_Dead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "Abad 33 feat. Neelo & Plastikboy",
+      "has_synced": true,
+      "path": "select/07_Risky_Business_Abad_33_feat._Neelo_&_Plastikboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "Abad 33/Neelo/Plastikboy",
+      "has_synced": true,
+      "path": "select/08_Risky_Business_Abad_33_Neelo_Plastikboy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "Jorge Blanco",
+      "has_synced": true,
+      "path": "select/09_Risky_Business_Jorge_Blanco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Risky Business I",
+      "artist": "Johnossi",
+      "has_synced": false,
+      "path": "select/10_Risky_Business_I_Johnossi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Risky Business II",
+      "artist": "Johnossi",
+      "has_synced": false,
+      "path": "select/11_Risky_Business_II_Johnossi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Old Time Rock and Roll (From \"Risky Business\")",
+      "artist": "Movie Soundtrack All Stars",
+      "has_synced": true,
+      "path": "select/12_Old_Time_Rock_and_Roll_(From__Risky_Business_)_Movie_Soundtrack_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Risky Business",
+      "artist": "Abhi The Nomad",
+      "has_synced": false,
+      "path": "select/13_Risky_Business_Abhi_The_Nomad.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Risky Business",
+      "artist": "Parabola",
+      "has_synced": false,
+      "path": "select/pl_01_Risky_Business_Parabola.txt"
+    }
+  ]
+}
